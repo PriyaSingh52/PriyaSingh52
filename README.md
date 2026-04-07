@@ -55,15 +55,3 @@ I love writing clean code and working with modern technologies to create efficie
 
 ## 📊 GitHub Stats
 
-
-
----
-
-## 🤝 Connect With Me
-
-- 💼 LinkedIn: (Add your LinkedIn link)
-- 📧 Email: (Add your email)
-
----
-
-⭐ *Feel free to check out my repositories and connect with me!*

@@ -6,7 +6,7 @@
 I’m a *MERN Stack Developer* with hands-on experience in *React.js, JavaScript, HTML, CSS, Node.js, and MongoDB*.  
 I enjoy building *scalable, user-friendly web applications* using clean code and modern development practices.
 
-🔗 *Portfolio:* https://dheerajsri.netlify.app/
+🔗 *Portfolio:* 
 
 ---
 
